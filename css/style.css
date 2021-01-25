@@ -1,0 +1,41 @@
+body {
+    font-family: 'Chakra Petch', sans-serif;
+    font-size: 10px;
+    line-height: 1.6;
+}
+
+.principal {
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('../images/background.jpg') no-repeat 100%;
+    background-size: cover;
+    color: white;
+}
+
+#home {
+    text-align: center;
+    padding: 200px 0 150px;
+}
+
+#home img {
+    width: 10%;
+    margin-right: 5px;
+    border-radius: 10cm;
+    border: 5px solid white;
+}
+
+#home h1 {
+    font-size: 30px;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 15px;
+}
+
+#home P {
+    font-size: 14px;
+    margin-top: 15px;
+}
+
+.container {
+    width: 992px;
+    margin-left: auto;
+    margin-right: auto;
+}
